@@ -1,0 +1,9 @@
+
+0. TODO 
+It allows the board range between 3 and 9, inclusive.
+1. TODO
+The board is represented by a "two-dimensional array"
+2. TODO
+The player is greeted by the greet() function
+3. TODO
+I apparently need to implement the most important three functions init();draw();and move();
